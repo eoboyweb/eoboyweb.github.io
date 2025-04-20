@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mtmdev.org/ipa-content/bacon.ipa</string>
+					<string>https://eoboyweb.github.io/files/bacon.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://mtmdev.org/ipa-content/bacon.png</string>
+					<string>https://eoboyweb.github.io/files/bacon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
